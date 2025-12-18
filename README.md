@@ -23,3 +23,9 @@ This is a beginner-friendly chatbot built using Python. The chatbot responds to 
 1. Clone the repository:
    ```bash
    git clone https://github.com/oseovie/simple-chatbot.git
+
+2.Navigate to the folder:
+cd simple-chatbot
+
+3.Run the chatbot:
+python chatbot.py
